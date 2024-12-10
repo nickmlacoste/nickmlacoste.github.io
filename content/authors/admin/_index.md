@@ -71,7 +71,9 @@ education:
     date_end: 2018-05-31
     summary: |
       Concentration: Econometrics
+
       Summa cum Laude
+      
       E.J. Ourso College of Business co-Valedictorian
 work:
   - position: Sr. Associate Data Scientist
