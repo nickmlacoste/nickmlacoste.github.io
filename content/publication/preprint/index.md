@@ -30,9 +30,9 @@ featured: true
 
 links:
 - name: Custom Link
-  url: http://example.org
+  url: '#' #http://example.org
 url_pdf: uploads/Pakistan_Audits_Project.pdf
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_code: '#' #'https://github.com/HugoBlox/hugo-blox-builder'
 url_dataset: '#'
 url_poster: '#'
 url_project: ''
@@ -63,6 +63,9 @@ projects:
 slides: example
 ---
 
+<!--
+#note that the above symbols treat this block as a comment. This is otherwise useful code
+
 This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
 
 {{% callout note %}}
@@ -70,3 +73,4 @@ Create your slides in Markdown - click the *Slides* button to check out the exam
 {{% /callout %}}
 
 Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+-->
