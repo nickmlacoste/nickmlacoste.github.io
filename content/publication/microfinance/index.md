@@ -29,8 +29,8 @@ tags:
 featured: true
 
 links:
-- name: Custom Link
-  url: '#' #http://example.org
+- name: Appendix
+  url: '/appendix.pdf' #http://example.org
 url_pdf: '' 
 url_code: '#' #'https://github.com/HugoBlox/hugo-blox-builder'
 url_dataset: '#'
