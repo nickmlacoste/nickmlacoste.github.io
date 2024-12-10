@@ -1,12 +1,13 @@
 ---
-title: "An example preprint / working paper"
+title: "Optimizing Policy Targeting with Machine Learning: Evidence from Pakistani Audits"
 authors:
 - admin
-date: "2019-04-07T00:00:00Z"
+- Zehra Farooq
+date: "2024-12-10T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+#publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -17,13 +18,13 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract:  We provide a framework for optimizing the distribution of policy treatment by combining machine learning techniques for the estimation of individualized causal responses with sufficient statistics for relative welfare implications of alternative distributions. This framework is applied to the setting of audit policy optimization in Pakistan. Specifically, we define a model which derives the Marginal Value of Public Funds (MVPF) in terms of three estimable causal effects of individuals in response to an audit -- the net-present value of long-run tax liabilities, taxpayer burden from audit compliance, and government expenditures from the audit. With the universe of individual income tax returns in Pakistan from 2012– 2020, we employ generalized random forests to estimate the individualized causal effects and optimize the distribution of audits with stochastic gradient descent and genetic algorithms. We find that the welfare cost per-dollar of revenue raised can be reduced by between 40%– 57% while collecting even more revenue than under the observed policy.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: ''
 
 tags:
-- Large Language Models
+- Marginal Value of Public Funds
 
 featured: true
 
