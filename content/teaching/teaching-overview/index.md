@@ -1,26 +1,46 @@
 ---
-title: Learn JavaScript
-summary: Easily learn JavaScript in 10 minutes!
-date: 2023-10-24
+title: Courses Taught, Guest Lectures, Teaching Reviews, Certifications
+summary: Overview of my teaching experinece
+date: 2024-12-11
 type: docs
 math: false
 tags:
-  - JavaScript
+  - Teaching
 image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---
 
-[Hugo Blox Builder](https://hugoblox.com) is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.
+**Here is an overview of all relevant teaching experience. Here, you'll see the following:**
 
-**Embed videos, podcasts, code, LaTeX math, and even test students!**
+1. Courses TA'd for and taught, along with any guest lectures
+2. Teaching reviews
+3. Teaching certifications
+4. Sample assignment 
+4. Teaching philosophy statement
+5. DEI statement
 
-On this page, you'll find some examples of the types of technical content that can be rendered with Hugo Blox.
 
-## Video
+## Courses Taught
 
-Teach your course by sharing videos with your students. Choose from one of the following approaches:
+**Teaching Assistant**
+\emph{Tulane University}
 
-{{< youtube D2vj0WcvH5c >}}
+* Development Economics (Fall 2024)
+* Economics of Big Data (Fall 2023, Spring 2024)
+* Introductory Microeconomics (Fall 2023, Spring 2024)
+* Introductory Macroeconomics (Fall 2024, Fall 2022, Spring 2023)
+* Intermediate Microeconomic Theory (Fall 2022)
+
+**Guest Lectures**
+
+* "Machine Learning for Economists" (Empirical Methods for Political Economy -- Fall 2024)
+* "Microfinance" (Development Economics -- Spring 2025)
+
+## Teaching Reviews
+
+
+
+
 
 **Youtube**:
 
