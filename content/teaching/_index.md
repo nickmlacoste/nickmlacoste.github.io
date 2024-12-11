@@ -10,13 +10,17 @@ cascade:
       show_breadcrumb: true
 
 sections:
-  - block: link
-    id: machine-learning-econometrics
+  - block: collection
+    id: teaching
     content:
-      title: Machine Learning Econometrics
-      url: machine-learning-econometrics/
+      title: Teaching
+      filters:
+        folders:
+          - machine-learning-econometrics
+          #- teaching
     design:
-      style: button
+      view: article-grid
+      columns: 2
 
   - block: content
     id: courses-taught
@@ -31,5 +35,3 @@ sections:
         - **Advanced Econometrics**
         - **Policy Evaluation Techniques**
 ---
-
-
