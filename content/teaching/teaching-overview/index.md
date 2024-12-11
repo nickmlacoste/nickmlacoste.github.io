@@ -70,8 +70,8 @@ All three students who filled out the TA review survey replied "Strongly Agree" 
 
 ## Teaching Philosophy and DEI Statement
 
-![Teaching Philosophy](Teaching_Philosophy_v2.pdf)
+[Teaching Philosophy](Teaching_Philosophy_v2.pdf)
 
-![DEI Statement](EDI_statement_v1.pdf)
+[DEI Statement](EDI_statement_v1.pdf)
 
 
