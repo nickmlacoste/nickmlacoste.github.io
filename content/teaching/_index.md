@@ -14,7 +14,7 @@ sections:
     id: machine-learning-econometrics
     content:
       title: Machine Learning Econometrics
-      url: /teaching/machine-learning-econometrics/
+      url: machine-learning-econometrics/
     design:
       style: button
 
