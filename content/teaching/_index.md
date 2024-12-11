@@ -21,7 +21,7 @@ sections:
       view: article-grid
       columns: 2
 
-  - block: content
+  - block: markdown
     id: courses-taught
     content:
       title: Courses I've Taught
