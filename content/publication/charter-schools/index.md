@@ -1,9 +1,9 @@
 ---
 title: "Let 1,000 Flowers Bloom (or Wilt): Heterogeneity in National Market-Level Charter School Effects"
 authors:
-- admin
 - Feng Chen
 - Douglas N. Harris
+- admin
 date: "2024-11-08T00:00:00Z"
 doi: ""
 
