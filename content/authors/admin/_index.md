@@ -122,66 +122,67 @@ skills:
         icon: code-bracket
   - name: Query Languages, Databases, and Version Control
     items:
-        - name: SQL
+      - name: SQL
         description: ''
         percent: 80
         icon: circle-stack
-        - name: GitHub
+      - name: GitHub
         description: ''
         percent: 80
         icon: circle-stack
-        - name: Microsoft Azure
+      - name: Microsoft Azure
         description: ''
         percent: 80
         icon: circle-stack
-        - name: AWS
+      - name: AWS
         description: ''
         percent: 80
         icon: circle-stack
   - name: Visualization Software
     items:
-        - name: Power BI
+      - name: Power BI
         description: ''
         percent: 80
         icon: chart-bar
-        - name: Tableau
+      - name: Tableau
         description: ''
         percent: 80
         icon: chart-bar
-        - name: Google Analytics
+      - name: Google Analytics
         description: ''
         percent: 80
         icon: chart-bar
   - name: Other Relevant Technology
     items:
-        - name: LaTeX
+      - name: LaTeX
         description: ''
         percent: 100
         icon: command-line
-        - name: Unix/Linux OS
+      - name: Unix/Linux OS
         description: ''
         percent: 80
         icon: command-line
-        - name: Schwab/Ameritrade Thinkorswim
+      - name: Schwab/Ameritrade Thinkorswim
         description: ''
         percent: 80
         icon: command-line
-  #- name: Hobbies
-  #  color: '#eeac02'
-  #  color_border: '#f0bf23'
-  #  items:
-  #    - name: Hiking
-  #      description: ''
-  #      percent: 60
-  #      icon: person-simple-walk
-  #    - name: Cats
-  #      description: ''
-  #      percent: 100
-  #      icon: cat
-  #    - name: Photography
-  #      description: ''
-  #      percent: 80
-  #      icon: camera
+  # - name: Hobbies
+  #   color: '#eeac02'
+  #   color_border: '#f0bf23'
+  #   items:
+  #     - name: Hiking
+  #       description: ''
+  #       percent: 60
+  #       icon: person-simple-walk
+  #     - name: Cats
+  #       description: ''
+  #       percent: 100
+  #       icon: cat
+  #     - name: Photography
+  #       description: ''
+  #       percent: 80
+  #       icon: camera
+
 
 #languages:
 #  - name: English
