@@ -102,24 +102,70 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: Scripting Languages
     items:
       - name: R
         description: ''
-        percent: 80
+        percent: 100
         icon: code-bracket
       - name: Python
         description: ''
         percent: 100
         icon: code-bracket
-      - name: SQL
-        description: ''
-        percent: 80
-        icon: circle-stack
       - name: Stata
         description: ''
         percent: 80
         icon: code-bracket
+      - name: MATLAB
+        description: ''
+        percent: 50
+        icon: code-bracket
+  - name: Query Languages, Databases, and Version Control
+    items:
+        - name: SQL
+        description: ''
+        percent: 80
+        icon: circle-stack
+        - name: GitHub
+        description: ''
+        percent: 80
+        icon: circle-stack
+        - name: Microsoft Azure
+        description: ''
+        percent: 80
+        icon: circle-stack
+        - name: AWS
+        description: ''
+        percent: 80
+        icon: circle-stack
+  - name: Visualization Software
+    items:
+        - name: Power BI
+        description: ''
+        percent: 80
+        icon: chart-bar
+        - name: Tableau
+        description: ''
+        percent: 80
+        icon: chart-bar
+        - name: Google Analytics
+        description: ''
+        percent: 80
+        icon: chart-bar
+  - name: Other Relevant Technology
+    items:
+        - name: LaTeX
+        description: ''
+        percent: 100
+        icon: command-line
+        - name: Unix/Linux OS
+        description: ''
+        percent: 80
+        icon: command-line
+        - name: Schwab/Ameritrade Thinkorswim
+        description: ''
+        percent: 80
+        icon: command-line
   #- name: Hobbies
   #  color: '#eeac02'
   #  color_border: '#f0bf23'
