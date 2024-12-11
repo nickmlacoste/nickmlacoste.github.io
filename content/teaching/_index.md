@@ -17,7 +17,6 @@ sections:
       filters:
         folders:
           - machine-learning-econometrics
-          #- teaching
     design:
       view: article-grid
       columns: 2
@@ -35,3 +34,4 @@ sections:
         - **Advanced Econometrics**
         - **Policy Evaluation Techniques**
 ---
+
