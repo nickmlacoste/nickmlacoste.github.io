@@ -23,7 +23,6 @@ image:
 ## Courses Taught
 
 **Teaching Assistant**
-\emph{Tulane University}
 
 * Development Economics (Fall 2024)
 * Economics of Big Data (Fall 2023, Spring 2024)
@@ -38,4 +37,7 @@ image:
 
 ## Teaching Reviews
 
-stuff
+**Microeconomics Fall 2023 TA Survey**
+Download this [link](econ_1010_fall23_survey.pdf) to view some reviews from Microeconomics Fall 2023.
+
+All three students who filled out the TA review survey replied "Strongly Agree" to all teaching quality related questions (it was optional, there was no reward for filling it out, and the course was unfortunately taken down shortly after I administered it which limited the number of respondents)
