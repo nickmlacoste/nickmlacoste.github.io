@@ -15,7 +15,6 @@ image:
 1. Courses TA'd for and taught, along with any guest lectures
 2. Teaching reviews
 3. Teaching certifications
-4. Sample assignment 
 4. Teaching philosophy statement
 5. DEI statement
 
@@ -32,7 +31,7 @@ image:
 
 **Guest Lectures**
 
-* "Machine Learning for Economists" (Empirical Methods for Political Economy -- Fall 2024)
+* ["Machine Learning for Economists"](Machine_Learning_for_Economists.pdf) and [LASSO](LASSO_demo_nb.pdf) demo (Empirical Methods for Political Economy -- Fall 2024)
 * "Microfinance" (Development Economics -- Spring 2025)
 
 ## Teaching Reviews
@@ -43,7 +42,7 @@ Download this [link](econ_1010_fall23_survey.pdf) to view some reviews from Micr
 
 All three students who filled out the TA review survey replied "Strongly Agree" to all teaching quality related questions (it was optional, there was no reward for filling it out, and the course was unfortunately taken down shortly after I administered it which limited the number of respondents)
 
-Some satisfied students!
+** Some additional satisfied students! **
 
 ![Teaching Review 1](email_olivia_segura_anonym.png)
 ![Teaching Review 2](email_bea_pierce_anonym.png)
@@ -68,5 +67,11 @@ Some satisfied students!
 "This course is designed to provide students feedback on actual teaching opportunities. Some students maybe the faculty of record for a course in their department, others will be a guest lecturer or give lectures to peers."
 
 **As of 12/11/24, I have completed the first 2 courses in this sequence.**
+
+## Teaching Philosophy and DEI Statement
+
+![Teaching Philosophy](Teaching_Philosophy_v2.pdf)
+
+![DEI Statement](EDI_statement_v1.pdf)
 
 
