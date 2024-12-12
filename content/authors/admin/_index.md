@@ -30,7 +30,7 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
+  - icon: envelope
     url: 'mailto:nlacoste1@tulane.edu'
     label: E-mail Me
   #- icon: brands/x
@@ -98,6 +98,29 @@ work:
   #    - Migrated infrastructure to a new data center
   #    - lorem ipsum dolor sit amet, consectetur adipiscing elit
   #    - lorem ipsum dolor sit amet, consectetur adipiscing elit
+
+contractual_research:
+  - position: Demand Management Planning and Forecasting
+    company_name: Microsoft
+    company_url: ''
+    company_logo: ''
+    date_start: 2020-02-01
+    date_end: 2021-07-31
+    summary: |2-
+      Project Description:
+      - Provided end-to-end Machine Learning solutions regarding business planning and forecasting. Included creation of ML workflows in Azure, writing forecasting algorithms in Python, and designing interactive dashboards in Power BI
+      - Automated previously manual reporting via Python scripting, Power BI, Azure, and Excel
+  - position:  Product Pricing Intelligence and Optimization
+    company_name: General Electric Appliances
+    company_url: ''
+    company_logo: ''
+    date_start: 2019-09-01
+    date_end: 2020-01-31
+    summary: |2-
+      Project Description:
+      - Analyzed sales and pricing data to create an algorithm designed for product pricing optimization and price-elasticity monitoring.
+      - Built flexible sales-forecasting models via a Python back-end and assisted in creating an application for the corporate stakeholders which applies the price optimization algorithm
+      
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
