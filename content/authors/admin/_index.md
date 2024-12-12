@@ -99,7 +99,7 @@ work:
   #    - lorem ipsum dolor sit amet, consectetur adipiscing elit
   #    - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
-contractual_research:
+contractual-research:
   - position: Demand Management Planning and Forecasting
     company_name: Microsoft
     company_url: ''
