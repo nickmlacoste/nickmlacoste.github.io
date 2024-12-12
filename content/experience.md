@@ -15,7 +15,7 @@ sections:
       username: admin
       include_sections:
         - work
-        - contractual_research
+        - contractual-research
     design:
       # Hugo date format
       date_format: 'January 2006'
