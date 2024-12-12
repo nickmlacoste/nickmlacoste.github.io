@@ -13,18 +13,14 @@ sections:
   - block: resume-experience
     content:
       username: admin
+      include_sections:
+        - work
+        - contractual_research
     design:
       # Hugo date format
       date_format: 'January 2006'
       # Education or Experience section first?
       is_education_first: false
-  - block: resume-contractual-research
-    content:
-      title: Contractual Research
-      username: admin
-    design:
-      # Hugo date format for this section
-      date_format: 'January 2006'
   - block: resume-skills
     content:
       title: Technical Skills
