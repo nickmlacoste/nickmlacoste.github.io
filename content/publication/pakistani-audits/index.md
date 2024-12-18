@@ -29,8 +29,8 @@ tags:
 featured: true
 
 links:
-- name: Custom Link
-  url: '#' #http://example.org
+#- name: Custom Link
+#  url: '#' #http://example.org
 url_pdf: '' #uploads/Pakistan_Audits_Project.pdf
 url_code: 'https://github.com/nickmlacoste/Pakistani_Audits_Project' 
 #url_dataset: '#'
