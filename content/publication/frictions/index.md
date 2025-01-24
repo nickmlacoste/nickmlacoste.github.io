@@ -21,7 +21,7 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract:   TBD
+abstract:   This paper quantifies how much people would be willing to pay to remove frictions that impede them from working their ideal number of hours using two sufficient statistics -- (1) the percentage difference between ideal (i.e., frictionless) and actual hours, and (2) the Hicksian elasticity of ideal hours with respect to the after-tax wage rate. We implement this method to construct estimates of the willingness-to-pay to remove frictions in the United States and Germany. There are three core findings -- (1) the cost of adjustment frictions (an omnibus measure encompassing, for example, fixed costs of adjustment, discrete choice sets, and search costs) is large for any reasonable value of the Hicksian ideal hours elasticity, even when accounting for endogenous wages, multiple labor supply decisions, and dynamic decisions; (2) the cumulative cost of adjustment frictions and tax misperceptions is even larger -- individuals would be willing to pay at least 10% of their income on average to remove these two frictions in hours worked; and (3) adjustment frictions appear to be much more costly than tax misperceptions.
 
 # Summary. An optional shortened abstract.
 summary: We estimate the social cost of frictions -- how much worse-off are individuals because they cannot perfectly control their labor hours.
@@ -46,7 +46,7 @@ url_pdf: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: ''
   focal_point: ""
   preview_only: false
 
