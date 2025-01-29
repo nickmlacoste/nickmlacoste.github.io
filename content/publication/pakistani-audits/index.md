@@ -25,6 +25,8 @@ summary: Combining machine learning prediction of heterogeneous treatment effect
 
 tags:
 - Welfare-Optimal Audit Programs
+- Machine Learning
+- Marginal Value of Public Funds
 
 featured: true
 
@@ -43,7 +45,7 @@ url_code: 'https://github.com/nickmlacoste/Pakistani_Audits_Project'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: ''
   focal_point: ""
   preview_only: false
 

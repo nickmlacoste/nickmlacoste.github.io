@@ -24,7 +24,9 @@ abstract:   Policy interventions– especially antipoverty– often provide soci
 summary: Gains to impact targeting in Microfinance.
 
 tags:
-- Microfinance Impact Targeting
+- Microfinance 
+- Impact Targeting
+- Machine Learning
 
 featured: true
 
@@ -43,7 +45,7 @@ url_pdf: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: ''
   focal_point: ""
   preview_only: false
 
