@@ -48,7 +48,7 @@ profiles:
 
 interests:
   - Public Economics and Taxation
-  - Non-parametric/Machine Learning Econometric Theory and Applications
+  - Machine Learning and Econometrics
   - Development Economics
 
 education:
