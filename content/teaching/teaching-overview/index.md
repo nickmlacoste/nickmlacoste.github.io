@@ -1,6 +1,6 @@
 ---
 title: Courses Taught, Guest Lectures, Teaching Reviews, Certifications
-summary: Overview of my teaching experinece
+summary: Overview of my teaching experience
 date: 2024-12-11
 type: docs
 math: false
@@ -16,17 +16,17 @@ image:
 2. Teaching reviews
 3. Teaching certifications
 4. Teaching philosophy statement
-5. DEI statement
 
 
 ## Courses Taught
 
 **Teaching Assistant**
 
+* Development Economics (Ph.D.) (Spring 2005)
 * Development Economics (Fall 2024)
-* Economics of Big Data (Fall 2023, Spring 2024)
-* Introductory Microeconomics (Fall 2023, Spring 2024)
-* Introductory Macroeconomics (Fall 2024, Fall 2022, Spring 2023)
+* Economics of Big Data (Spring 2024, Fall 2023 )
+* Introductory Microeconomics (Spring 2024, Fall 2023)
+* Introductory Macroeconomics (Spring 2025, Fall 2024, Spring 2023, Fall 2022)
 * Intermediate Microeconomic Theory (Fall 2022)
 
 **Guest Lectures**
@@ -68,10 +68,9 @@ All three students who filled out the TA review survey replied "Strongly Agree" 
 
 **As of 12/11/24, I have completed the first 2 courses in this sequence.**
 
-## Teaching Philosophy and DEI Statement
+## Teaching Philosophy
 
 [Teaching Philosophy](Teaching_Philosophy_v2.pdf)
 
-[DEI Statement](EDI_statement_v1.pdf)
 
 
