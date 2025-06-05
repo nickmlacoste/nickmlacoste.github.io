@@ -1,7 +1,7 @@
 ---
 title: Courses Taught, Guest Lectures, Teaching Reviews, Certifications
 summary: Overview of my teaching experience
-date: 2024-12-11
+date: 2025-06-05
 type: docs
 math: false
 tags:
