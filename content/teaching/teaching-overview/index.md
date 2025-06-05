@@ -50,7 +50,7 @@ All three students who filled out the TA review survey replied "Strongly Agree" 
 
 ## Teaching Certifications/Coursework
 
-**Certificate in Pedagical Practice (expected Spring 2025)**
+**Certificate in Pedagical Practice**
 
 * This is administered by the Tulane University Center for Engaged Learning and Teaching (CELT). It is obtained by completion of a 3-course sequence in graduate pedagogy:
 
@@ -66,11 +66,9 @@ All three students who filled out the TA review survey replied "Strongly Agree" 
 
 "This course is designed to provide students feedback on actual teaching opportunities. Some students maybe the faculty of record for a course in their department, others will be a guest lecturer or give lectures to peers."
 
-**As of 12/11/24, I have completed the first 2 courses in this sequence.**
-
 ## Teaching Philosophy
 
-[Teaching Philosophy](Teaching_Philosophy_v2.pdf)
+[Teaching Philosophy](Teaching_Philosophy_main.pdf)
 
 
 
