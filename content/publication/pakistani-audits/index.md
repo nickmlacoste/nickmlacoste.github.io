@@ -1,9 +1,9 @@
 ---
-title: "Optimizing Policy Targeting with Machine Learning: Evidence from Pakistani Audits"
+title: "Optimal Audit Targeting with Machine Learning: Evidence from Pakistan (Job Market Paper)"
 authors:
 - admin
 - Zehra Farooq
-date: "2024-12-10T00:00:00Z"
+date: "2025-09-04T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -18,7 +18,7 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract:  We provide a framework for optimizing the distribution of policy treatment by combining machine learning techniques for the estimation of individualized causal responses with sufficient statistics for relative welfare implications of alternative distributions. This framework is applied to the setting of audit policy optimization in Pakistan. Specifically, we define a model which derives the Marginal Value of Public Funds (MVPF) in terms of three estimable causal effects of individuals in response to an audit -- the net-present value of long-run tax liabilities, taxpayer burden from audit compliance, and government expenditures from the audit. With the universe of individual income tax returns in Pakistan from 2012– 2020, we employ generalized random forests to estimate the individualized causal effects and optimize the distribution of audits with stochastic gradient descent and genetic algorithms. We find that the welfare cost per-dollar of revenue raised can be reduced by between 40%– 57% while collecting even more revenue than under the observed policy.
+abstract:  This paper bridges welfare economics and machine learning econometrics to develop empirically implementable algorithms for optimal audit targeting. We formulate a structural model which derives a sufficient statistic-based targeting algorithm that depends on three individualized causal effects, (1) the immediate revenue recovered from an audit, (2) the causal effect of an audit on long-run tax revenue, and (3) the marginal administrative cost of an audit. We estimate these effects using causal forests, LASSO, gradient boosted trees, and neural networks within the universe of Pakistani income tax returns, exploiting years in which audits were assigned completely at random. We implement our targeting algorithms in out-of-bag years, comparing them to the real-world policy when audits were partially or entirely targeted. We show that the real-world audit program in Pakistan lost almost 173,000 Rs (about $1,700) in net revenue per-audit and generated negative welfare incidence, while our optimal policies generate 285,000 Rs (about $2,800) in expected net revenue per-audit and $3.60 in welfare gains per $1 spent on audits. Our framework offers a general approach to empirical welfare maximization using machine learning in resource-constrained policy settings.
 
 # Summary. An optional shortened abstract.
 summary: Combining machine learning prediction of heterogeneous treatment effects with welfare structural models to derive the optimal auditing scheme in Pakistan.
@@ -26,7 +26,7 @@ summary: Combining machine learning prediction of heterogeneous treatment effect
 tags:
 - Welfare-Optimal Audit Programs
 - Machine Learning
-- Marginal Value of Public Funds
+- Sufficient Statistics
 
 featured: true
 
