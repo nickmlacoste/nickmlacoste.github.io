@@ -22,7 +22,7 @@ image:
 
 **Teaching Assistant**
 
-* Development Economics (Ph.D.) (Spring 2005)
+* Development Economics (Ph.D.) (Spring 2025)
 * Development Economics (Fall 2024)
 * Economics of Big Data (Spring 2024, Fall 2023 )
 * Introductory Microeconomics (Spring 2024, Fall 2023)
@@ -32,7 +32,6 @@ image:
 **Guest Lectures**
 
 * ["Machine Learning for Economists"](Machine_Learning_for_Economists.pdf) and [LASSO](LASSO_demo_nb.pdf) demo (Empirical Methods for Political Economy -- Fall 2024)
-* "Microfinance" (Development Economics -- Spring 2025)
 
 ## Teaching Reviews
 
