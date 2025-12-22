@@ -35,10 +35,10 @@ tags:
 featured: false
 
 links:
-#- name: Appendix
-#  url: #'/appendix.pdf' 
-url_pdf: 'https://www.sciencedirect.com/science/article/pii/S0047272725002555' 
-#url_code: '#' #'https://github.com/HugoBlox/hugo-blox-builder'
+- name: Link to published version
+  url: 'https://www.sciencedirect.com/science/article/pii/S0047272725002555' 
+#url_pdf: '' 
+url_code: 'https://github.com/nickmlacoste/Frictions_Project'
 #url_dataset: '#'
 #url_poster: '#'
 #url_project: ''
