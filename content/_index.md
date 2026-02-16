@@ -24,7 +24,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: futuristic-black.jpg
+          filename: blue-curves.jpg
           filters:
             brightness: 1.0
           size: cover
