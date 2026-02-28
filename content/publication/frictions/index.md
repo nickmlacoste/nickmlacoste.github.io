@@ -6,7 +6,7 @@ authors:
 - admin
 - Juan Rios
 
-date: "2025-12-22T00:00:00Z"
+date: "2026-01-04T00:00:00Z"
 doi: "https://doi.org/10.1016/j.jpubeco.2025.105556"
 
 # Schedule page publish date (NOT publication's date).
@@ -32,7 +32,7 @@ tags:
 - Ideal Hours Worked
 - Sufficient Statistics
 
-featured: false
+featured: true
 
 links:
 - name: Link to published version

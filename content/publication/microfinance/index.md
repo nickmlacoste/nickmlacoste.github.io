@@ -28,7 +28,7 @@ tags:
 - Impact Targeting
 - Machine Learning
 
-featured: true
+featured: false
 
 links:
 - name: Appendix

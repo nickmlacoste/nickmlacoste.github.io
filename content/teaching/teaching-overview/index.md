@@ -12,13 +12,17 @@ image:
 
 **Here is an overview of all relevant teaching experience. Here, you'll see the following:**
 
-1. Courses TA'd for and taught, along with any guest lectures
+1. Courses taught and TA'd for, along with any guest lectures
 2. Teaching reviews
 3. Teaching certifications
 4. Teaching philosophy statement
 
 
 ## Courses Taught
+
+**Instructor**
+
+* Introductory Microeconomics (Spring 2026): ["Syllabus"](ECON_1010_Syllabus.pdf)
 
 **Teaching Assistant**
 
