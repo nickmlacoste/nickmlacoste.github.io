@@ -15,7 +15,7 @@ doi: "https://doi.org/10.1016/j.jpubeco.2025.105556"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article"]
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Journal of Public Economics"
@@ -24,7 +24,7 @@ publication_short: ""
 abstract: This paper quantifies how much people would be willing to pay to remove frictions that impede them from working their ideal number of hours using two sufficient statistics -- (1) the percentage difference between ideal (i.e., frictionless) hours and actual hours, and (2) the Hicksian elasticity of ideal hours with respect to the after-tax wage rate. We implement this method to construct estimates of the willingness-to-pay to remove frictions in the United States and Germany. There are three core findings -- (1) the cost of adjustment frictions (an omnibus measure encompassing, for example, fixed costs of adjustment, discrete choice sets, and search costs) is large for any reasonable value of the Hicksian ideal hours elasticity, even when accounting for multiple labor supply decisions, endogenous wages, and dynamic decisions; (2) the cumulative cost of adjustment frictions and tax misperceptions is even larger -- individuals in the U.S. (Germany) would be willing to pay at least 7% (4%) of their income on average to remove these two frictions in hours worked; and (3) adjustment frictions appear to be much more costly than tax misperceptions.
 
 # Summary. An optional shortened abstract.
-summary: How much worse-off are people because they can't work their preferred number of hours? In this paper, we estimate that Americans would be willing to pay at least 7% of their income on-average to be able to work as less/more than what they are able to. This estimate is much larger than previously believed because it accounts for all frictions that prevent people from working as much as they want.
+summary: Journal of Public Economics, Vol 253, January 2026
 
 tags:
 - Adjustment Frictions

@@ -21,7 +21,7 @@ publication_short: ""
 abstract:  This paper bridges welfare economics and machine learning econometrics to develop empirically implementable algorithms for optimal audit targeting. We derive a sufficient statistic-based targeting algorithm that depends on three individualized causal effects -- the immediate revenue recovered from an audit, the causal effect of an audit on long-run tax revenue, and the marginal administrative cost of an audit. We estimate these effects with a variety of machine learners comparing causal forests, LASSO, gradient boosted trees, and neural networks using the universe of Pakistani income tax returns, exploiting years in which audits were assigned completely at random. We implement our targeting algorithms in out-of-bag years, comparing them to the real-world policy when audits were partially or entirely targeted. We show that the real-world audit program in Pakistan lost almost 173,000 Rs (about $1,700) in net revenue per-audit, while our optimal policy generates 285,000 Rs (about $2,800) in expected net revenue per-audit. We also find that targeting audits based on immediate recoup is sub-optimal to targeting on long-run deterrence in this setting. Moving forward, our framework offers a general approach to empirical welfare maximization using machine learning in resource-constrained policy settings. 
 
 # Summary. An optional shortened abstract.
-summary: Combining machine learning prediction of heterogeneous treatment effects with welfare structural models to derive the optimal auditing scheme in Pakistan.
+summary: Working paper
 
 tags:
 - Welfare-Optimal Audit Programs
