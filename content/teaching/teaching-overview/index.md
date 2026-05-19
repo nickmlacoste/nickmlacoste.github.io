@@ -22,7 +22,7 @@ image:
 
 **Instructor**
 
-* Introductory Microeconomics (Spring 2026): ["Syllabus"](ECON_1010_Syllabus.pdf)
+* Introductory Microeconomics (Spring 2026): [Syllabus](ECON_1010_Syllabus.pdf)
 
 **Teaching Assistant**
 
@@ -47,9 +47,10 @@ All three students who filled out the TA review survey replied "Strongly Agree" 
 
 ** Some additional satisfied students! **
 
-![Teaching Review 1](email_olivia_segura_anonym.png)
-![Teaching Review 2](email_bea_pierce_anonym.png)
-![Teaching Review 3](email_sydney_simmons_anonym.png)
+![Teaching Review 1](email_thomas_skoler_anonym.png)
+![Teaching Review 2](email_olivia_segura_anonym.png)
+![Teaching Review 3](email_bea_pierce_anonym.png)
+![Teaching Review 4](email_sydney_simmons_anonym.png)
 
 ## Teaching Certifications/Coursework
 
