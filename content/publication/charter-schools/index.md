@@ -4,7 +4,7 @@ authors:
 - Feng Chen
 - Douglas N. Harris
 - admin
-date: "2024-11-08T00:00:00Z"
+date: "2026-07-006T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -30,8 +30,8 @@ tags:
 featured: false
 
 links:
-- name: Technical Appendix
-  url: '/technical-appendix.pdf' #http://example.org
+#- name: Technical Appendix
+#  url: '/technical-appendix.pdf' #http://example.org
 url_pdf: '' 
 url_code: 'https://github.com/nickmlacoste/Charter_School_Heterogeneity_Project'
 #url_dataset: '#'
