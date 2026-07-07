@@ -20,18 +20,18 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Ph.D. Candidate in Economics
+role: Assistant Professor of Economics
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Tulane University
-    url: https://liberalarts.tulane.edu/economics
+  - name: University of Hawaii at Mānoa, UHERO
+    url: https://uhero.hawaii.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: envelope
-    url: 'mailto:nlacoste1@tulane.edu'
+    url: 'mailto:nlacoste@hawaii.edu'
     label: E-mail Me
   #- icon: brands/x
   #  url: https://twitter.com/GetResearchDev
@@ -228,6 +228,4 @@ skills:
 
 ## About Me
 
-Welcome to my website! I am a Ph.D. candidate in economics at Tulane University, with expected completion in 2026. My research explores the new types of questions that can be answered in public finance, taxation, and economic development when machine learning, causal inference, and social welfare theory are combined. I write about optimal taxation, tax enforcement, and government expenditure policies in both developed and developing economies.
-
-In Fall 2026, I will be joining the University of Hawai`i at Mānoa as an Assistant Professor of economics within UHERO.
+Welcome to my website! I am an Assistant Professor of Economics at the University of Hawaii at Mānoa within UHERO. My research explores the new types of questions that can be answered in public finance, taxation, and economic development when machine learning, causal inference, and social welfare theory are combined. I write about optimal taxation, tax enforcement, and government expenditure policies in both developed and developing economies. At UHERO, I help to inform public policy within several domains including tax system development and financing for public programs.
