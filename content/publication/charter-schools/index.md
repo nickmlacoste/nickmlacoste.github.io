@@ -27,7 +27,7 @@ summary: We estimate heterogeneity in the impacts of charter schools using a nea
 tags:
 - Heterogeneous Impacts of Charter Schools
 
-featured: true
+featured: false
 
 links:
 - name: Slides
