@@ -30,8 +30,8 @@ tags:
 featured: false
 
 links:
-- name: Slides
-url: '/charter-schools-slides.pdf' #http://example.org
+#- name: Slides
+#url: '/charter-schools-slides.pdf' #http://example.org
 url_pdf: '' 
 url_code: 'https://github.com/nickmlacoste/Charter_School_Heterogeneity_Project'
 #url_dataset: '#'
@@ -61,7 +61,7 @@ projects:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: '/charter-schools-slides.pdf'
 ---
 
 <!--
