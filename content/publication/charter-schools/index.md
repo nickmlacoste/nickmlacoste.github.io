@@ -37,6 +37,7 @@ url_code: 'https://github.com/nickmlacoste/Charter_School_Heterogeneity_Project'
 #url_dataset: '#'
 #url_poster: '#'
 #url_project: ''
+- name: Slides
 url_slides: '/charter-schools-slides.pdf'
 #url_source: '#'
 #url_video: '#'
