@@ -19,12 +19,18 @@ sections:
         text: Download CV
         url: uploads/resume.pdf
     design:
-      css_class: light
+      # Tinted overlay for readable text in light/dark mode (see assets/css/custom.css)
+      css_class: bio-hero
       background:
         color: light
         image:
           # Add your image background to `assets/media/`.
-          filename: blue-curves.jpg
+          # Background options in assets/media/ (all from Wikimedia Commons):
+          #   hawaii-waikiki-diamond-head.jpg - Carol M. Highsmith, Library of Congress (public domain, no credit needed)
+          #   hawaii-mokulua-dawn.jpg         - Christian Joudrey (CC0, no credit needed)
+          #   hawaii-diamond-head-aerial.jpg  - Eric Tessmer (CC BY 2.0, credit required)
+          #   hawaii-honolulu-skyline.jpg     - IAU/B. Tafreshi (CC BY 4.0, credit required)
+          filename: hawaii-waikiki-diamond-head.jpg
           filters:
             brightness: 1.0
           size: cover

@@ -24,7 +24,7 @@ role: Assistant Professor of Economics
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: University of Hawaii at Mānoa, UHERO
+  - name: University of Hawaiʻi at Mānoa, UHERO
     url: https://uhero.hawaii.edu/
 
 # Social network links
@@ -228,4 +228,4 @@ skills:
 
 ## About Me
 
-Welcome to my website! I am an Assistant Professor of Economics at the University of Hawaii at Mānoa within UHERO. My research explores the new types of questions that can be answered in public finance, taxation, and economic development when machine learning, causal inference, and social welfare theory are combined. I write about optimal taxation, tax enforcement, and government expenditure policies in both developed and developing economies. At UHERO, I help to inform public policy within several domains including tax system development and financing for public programs.
+Welcome to my website! I am an Assistant Professor of Economics at the University of Hawaiʻi at Mānoa within UHERO. My research explores the new types of questions that can be answered in public finance, taxation, and economic development when machine learning, causal inference, and social welfare theory are combined. I write about optimal taxation, tax enforcement, and government expenditure policies in both developed and developing economies. At UHERO, I help to inform public policy within several domains including tax system development and financing for public programs.

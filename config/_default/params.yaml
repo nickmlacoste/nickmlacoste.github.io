@@ -33,14 +33,14 @@ header:
     blox: "navbar"
     fixed_to_top: true
     show_search: true
-    show_theme_chooser: false
+    show_theme_chooser: true
     logo:
       text: "Nicholas Lacoste"
 
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Nicholas Lacoste. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false

@@ -28,7 +28,7 @@ tags:
 - Machine Learning
 - Sufficient Statistics
 
-featured: true
+featured: false
 
 links:
 #- name: Custom Link

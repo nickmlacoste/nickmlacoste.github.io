@@ -1,0 +1,8 @@
+# Hugo build output (regenerated on every build)
+public/
+resources/
+.hugo_build.lock
+hugo_stats.json
+
+# Files OneDrive/Windows drop into synced folders
+desktop.ini

@@ -19,7 +19,7 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: A large and growing literature has advanced the understanding and use of difference-in-differences (DiD) and semiparametric machine learning methods. A much smaller literature has combined DD with causal forests (CF) for causal effect heterogeneity analysis. We build on this DiD-CF literature by extending it to cases with continuous treatment. We then apply the method to charter schools, which serve 7 percent of all U.S. school children. While prior research suggested charter school effectiveness was driven by student demographics, we find that this mostly reflects the something correlated with those demographics -- low baseline achievement levels. Also, higher school funding is the only policy variable that seems to improve charter effectiveness. Two dozen other factors are unrelated to charter effects. 
+abstract: A large and growing literature has advanced the understanding and use of difference-in-differences (DiD) and semiparametric machine learning methods. A much smaller literature has combined DD with causal forests (CF) for causal effect heterogeneity analysis. We build on this DiD-CF literature by extending it to cases with continuous treatment. We then apply the method to charter schools, which serve 7 percent of all U.S. school children. While prior research suggested charter school effectiveness was driven by student demographics, we find that this mostly reflects something correlated with those demographics -- low baseline achievement levels. Also, higher school funding is the only policy variable that seems to improve charter effectiveness. Two dozen other factors are unrelated to charter effects. 
 
 # Summary. An optional shortened abstract.
 summary: We estimate heterogeneity in the impacts of charter schools using a near-universe of US school districts.
@@ -27,17 +27,17 @@ summary: We estimate heterogeneity in the impacts of charter schools using a nea
 tags:
 - Heterogeneous Impacts of Charter Schools
 
-featured: false
+featured: true
 
 links:
-#- name: Slides
-#url: '/charter-schools-slides.pdf' #http://example.org
+#- name: Custom Link
+#  url: '#' #http://example.org
 url_pdf: '' 
 url_code: 'https://github.com/nickmlacoste/Charter_School_Heterogeneity_Project'
 #url_dataset: '#'
 #url_poster: '#'
 #url_project: ''
-#url_slides: ''
+url_slides: 'charter-schools-slides.pdf'
 #url_source: '#'
 #url_video: '#'
 
@@ -61,7 +61,7 @@ projects:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: '/charter-schools-slides.pdf'
+slides: ''
 ---
 
 <!--
