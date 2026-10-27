@@ -4,7 +4,7 @@ authors:
 - Feng Chen
 - Douglas N. Harris
 - admin
-date: "2026-10-08T00:00:00Z"
+date: "2026-10-27T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -19,13 +19,16 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: A large and growing literature has advanced the understanding and use of difference-in-differences (DiD) and semiparametric machine learning methods. A much smaller literature has combined DD with causal forests (CF) for causal effect heterogeneity analysis. We build on this DiD-CF literature by extending it to cases with continuous treatment. We then apply the method to charter schools, which serve 7 percent of all U.S. school children. While prior research suggested charter school effectiveness was driven by student demographics, we find that this mostly reflects something correlated with those demographics -- low baseline achievement levels. Also, higher school funding is the only policy variable that seems to improve charter effectiveness. Two dozen other factors are unrelated to charter effects. 
+abstract: A large and growing literature has advanced the understanding and use of difference-in-differences (DiD) and semi-parametric machine learning methods. A much smaller literature has combined DiD with causal forests (CF) for causal effect heterogeneity analysis. We build on this DiD-CF literature by extending it to cases with continuous and time-varying treatment. We then apply the method to charter schools, which serve seven percent of all U.S. school children. While prior research suggested charter school effectiveness was most closely associated with student demographics, we find that this mostly reflects something correlated with those demographics-- low baseline achievement levels. Also, higher school funding is the only policy variable that seems to improve charter effectiveness. Two dozen other factors are unrelated to charter effects. The results also conflict with more standard DiD methods with linear interactions (e.g. finding no evidence of demographic or school spending effects). This illustrates the value of DiD-CF for effect heterogeneity in the common case of dosage-based, quasi-experimental settings. 
 
 # Summary. An optional shortened abstract.
-summary: We estimate heterogeneity in the impacts of charter schools using a near-universe of US school districts.
+summary: We extend causal forests to function in complex difference-in-differences settings. We then use our framework to estimate heterogeneity in the impacts of charter schools.
 
 tags:
-- Heterogeneous Impacts of Charter Schools
+- Heterogeneity
+- Causal Forests
+- Machine Learning
+- Difference-in-Differences
 
 featured: true
 
